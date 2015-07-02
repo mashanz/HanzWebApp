@@ -1,0 +1,116 @@
+body {
+	position:relative;
+	margin:0px;
+	background:url(../images/Black-Metal-Wallpaper.png);
+	background-repeat:repeat-x;
+	background-position:fixed;
+}
+table {
+	margin:0px;
+	padding:0px;
+	border:0px;
+	border:0px solid #3cff00;
+	box-shadow: 0px 0px 20px #3cff00;
+	border-radius:20px;
+	z-index:1;
+}
+#menu {
+	width:600px;
+	height:400px;
+	pading:0px;
+	margin-top:150px;
+	margin-left: auto;
+	margin-right: auto;
+	background:#3cff00;
+	background-repeat:repeat-x;
+	background-position:left  bottom;
+	border:0px solid #3cff00;
+	box-shadow: 0px 0px 50px #3cff00;
+	border-radius:20px;
+}
+#pilihan1 {
+	top:100px;
+	posotion:absolute;
+	margin:0px;
+	height:100%;
+	widht:100%;
+	background:black;
+	border-radius:20px 20px 0px 0px;
+	border:0px solid #3cff00;
+	z-index:1;
+}
+#pilihan1:hover {
+	posotion:absolute;
+	height:100%;
+	widht:150%;
+	background:black;
+	box-shadow: 0px -10px 20px #3cff00;
+	border-radius:20px;
+	border:0px solid #3cff00;
+	opacity:1;
+	z-index:1;
+}
+#pilihan2 {
+	top:100px;
+	posotion:absolute;
+	margin:0px;
+	height:100%;
+	widht:100%;
+	background:black;
+	border:0px solid #3cff00;
+	z-index:1;
+}
+#pilihan2:hover {
+	posotion:absolute;
+	height:100%;
+	widht:100%;
+	background:black;
+	box-shadow: 0px -10px 20px #3cff00;
+	border-radius:20px;
+	border:0px solid #3cff00;
+	opacity:1;
+	z-index:1;
+}
+#pilihan3 {
+	top:100px;
+	posotion:absolute;
+	margin:0px;
+	height:100%;
+	widht:100%;
+	background:black;
+	border:0px solid #3cff00;
+	z-index:1;
+}
+#pilihan3:hover {
+	posotion:absolute;
+	height:100%;
+	widht:100%;
+	background:black;
+	box-shadow: 0px -10px 20px #3cff00;
+	border-radius:20px;
+	border:0px solid #3cff00;
+	opacity:1;
+	z-index:1;
+}
+#pilihan4 {
+	top:100px;
+	posotion:absolute;
+	margin:0px;
+	height:100%;
+	widht:100%;
+	background:black;
+	border-radius:0px 0px 20px 20px;
+	border:0px solid #3cff00;
+	z-index:1;
+}
+#pilihan4:hover {
+	posotion:absolute;
+	height:100%;
+	widht:100%;
+	background:black;
+	box-shadow: 0px -10px 20px #3cff00;
+	border-radius:20px;
+	border:0px solid #3cff00;
+	opacity:1;
+	z-index:1;
+}
